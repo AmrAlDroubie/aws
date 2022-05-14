@@ -307,6 +307,10 @@ a {
 
 /* =================== Our Services ================= */
 
+.our-services {
+    overflow: hidden;
+}
+
 .our-services-image {
     width: fit-content;
 }
